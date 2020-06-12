@@ -1,12 +1,12 @@
-# Title
+# Mr Roboger's Neighborhood
 
-#### Latest version date
+#### Latest version date 6/12/2020
 
 #### By Deryck Jackson
 
 ## Description
 
-
+A program that takes a number and outputs a range of numbers up to the user input and replaces all numbers with the "1" digit with "Beep!", the "2" digit with "Boop!" and the "3" digit with "Won't you be my neighbor?".
 
 ## Specifications
 
@@ -26,17 +26,29 @@
   * **Input Example:** 6
   * **Output Example:** "0, 1, 2, Won't you be my neighbor?, 3, 4, 5, 6"
 
-**Behavior:**
-  * **Input Example:**
-  * **Output Example:**
+**Behavior:** Program will prioritize replacing the "3" digit with "Won't you be my neighbor?" over the digit "1" and "2" rule.
+  * **Input Example:** The number 13 should be replaced with...
+  * **Output Example:** "Won't you be my neighbor?"
+
+**Behavior:** Program will prioritize replacing the "2" digit with "Boop!" over the digit "1" rule.
+  * **Input Example:** The number 12 should be replaced with...
+  * **Output Example:** "Boop!"
+
+**Behavior:** Program will only accept positive numbers up to 1000
+  * **Input Example:** 1001
+  * **Output Example:** "Please input a number between 1 and 1000"
 
 ## Setup and Installation
+
+Navigate to the Gh-Pages Website [Link]()
+
+*OR*
 
 * Navigate to [Link](https://github.com/DeryckJackson/mr-robogers-neighborhood)
 * Click the green clone button to download the repo your Computer
 * Find the .zip file on your Computer
 * Unzip the file
-* Browse to __ directory
+* Browse to _mr-robogers-neighborhood_ directory
 * Open _index.html_ in your browser
 
 ## Bugs
