@@ -26,13 +26,13 @@ A program that takes a number and outputs a range of numbers up to the user inpu
     * **Input Example:** 6
     * **Output Example:** "0, 1, 2, Won't you be my neighbor?, 3, 4, 5, 6"
 
-5. **Behavior:** Program will prioritize replacing the "3" digit with "Won't you be my neighbor?" over the digit "1" and "2" rule.
-    * **Input Example:** The number 13 should be replaced with...
-    * **Output Example:** "Won't you be my neighbor?"
-
-6. **Behavior:** Program will prioritize replacing the "2" digit with "Boop!" over the digit "1" rule.
+5. **Behavior:** Program will prioritize replacing the "2" digit with "Boop!" over the digit "1" rule.
     * **Input Example:** The number 12 should be replaced with...
     * **Output Example:** "Boop!"
+
+6. **Behavior:** Program will prioritize replacing the "3" digit with "Won't you be my neighbor?" over the digit "1" and "2" rule.
+    * **Input Example:** The number 13 should be replaced with...
+    * **Output Example:** "Won't you be my neighbor?"
 
 7. **Behavior:** Program will only accept positive numbers up to 1000
     * **Input Example:** 1001
