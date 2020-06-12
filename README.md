@@ -38,6 +38,10 @@ A program that takes a number and outputs a range of numbers up to the user inpu
     * **Input Example:** 1001
     * **Output Example:** "Please input a number between 1 and 1000"
 
+7. **Behavior:** Program will accept a name input and output the name with spec 4 rule
+    * **Input Example:** "Deryck"
+    * **Output Example:** "Deryck, Won't you be my neighbor?"
+
 ## Setup and Installation
 
 Navigate to the Gh-Pages Website [Link]()

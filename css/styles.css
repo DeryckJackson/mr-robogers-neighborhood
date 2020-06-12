@@ -8,6 +8,10 @@
   width: 200px;
 }
 
+.btn {
+  margin-top: 5px;
+}
+
 .hidden {
   display: none;
   margin-top: 10px;
