@@ -1,3 +1,8 @@
 .jumbotron {
   text-align: center;
 }
+
+.hidden {
+  display: none;
+  margin-top: 10px;
+}
