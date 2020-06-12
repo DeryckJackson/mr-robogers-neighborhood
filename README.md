@@ -38,9 +38,13 @@ A program that takes a number and outputs a range of numbers up to the user inpu
     * **Input Example:** 1001
     * **Output Example:** "Please input a number between 1 and 1000"
 
-7. **Behavior:** Program will accept a name input and output the name with spec 4 rule
+8. **Behavior:** Program will accept a name input and output the name with spec 4 rule
     * **Input Example:** "Deryck"
     * **Output Example:** "Deryck, Won't you be my neighbor?"
+
+9. **Behavior:** Program will Loop through numbers backwards
+    * **Input Example:** 5
+    * **Output Example:** "5, 4, Deryck, Won't you be my neighbor?, Boop!, Beep!, 0"
 
 ## Setup and Installation
 
