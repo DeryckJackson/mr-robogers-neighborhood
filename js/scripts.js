@@ -1,10 +1,13 @@
 const mrRoboger = (number) => {
   let outputString = "";
   const oneString = "1";
+  const twoString = "2";
 
   for (i = 0; i <= number; i++) {
-    if (i.toString().includes(oneString)) {
-      outputString += `Beep!, `;
+    if (i.toString().includes(twoString)) {
+      outputString += "Boop!, ";
+    } else if (i.toString().includes(oneString)) {
+      outputString += "Beep!, ";
     } else {
       outputString += `${i}, `;
     }
